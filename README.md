@@ -7,9 +7,19 @@
 
 ## 👨‍🎓 Education
 
-**Northern University Bangladesh**  
-*Bachelor of Science in Computer Science & Engineering*  
-CGPA: 3.20 / 4.00 (Current)
+**BSc in Computer Science & Engineering**  
+Northern University Bangladesh  
+CGPA: 3.20 / 4.00 (Current) | Expected Graduation: 2029
+
+**Higher Secondary Certificate (HSC)**  
+Group: Science  
+Nawab Habibullah Model School and College, Dhaka, Bangladesh  
+GPA: 4.08 / 5.00 | 2025
+
+**Secondary School Certificate (SSC)**  
+Group: Science  
+Hazi College, Dhaka, Bangladesh  
+GPA: 4.06 / 5.00 | 2023
 
 ---
 
